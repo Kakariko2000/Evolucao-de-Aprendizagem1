@@ -24,6 +24,11 @@
 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
- Em andamento ...
+
+Durante o módulo, eu aprendi a criar funções para deixar o código mais organizado e fácil de usar. Entendi como lidar com diferentes tipos de dados e como convertê-los, o que me ajudou a trabalhar melhor com informações. Também explorei tipos utilitários, como genéricos, que tornam o código mais flexível e robusto.
+
+Aprendi a manipular arrays de maneira eficiente, o que facilitou a adição, remoção e filtragem de dados. No aspecto da gestão de tempo, comecei a entender como lidar com datas e horários e a medir o tempo de execução das tarefas, melhorando minha organização.
+
+Sobre postura profissional, refinei minhas habilidades em comunicação, trabalho em equipe e ética, tornando-me mais eficaz no ambiente de trabalho.
 
 
